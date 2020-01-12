@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: ""/images/artificial_intelligence.jpg"
+  image: "/images/artificial_intelligence.jpg"
 ---
 
 I am a recent M. Sc. in Industrial Engineering graduate in the State University of Navarre with a strong international experience due to my 2 stays in Germany: one while writing my bachelor thesis at Hochschule Niederrhein and the other while doing an internship and writing my master's thesis at FZI Forschungszentrum Informatik. I have been recognized with an Extraordinary University Award for being among the top 1% of the best GPA-s in the bachelor's degree.
