@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Asier Garciandia-Lopez"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Personal Portfolio."
+  bio              : "Personal Portfolio"
   location         : "Pamplona, Spain"
   email            :
   links:
