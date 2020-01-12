@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Asier Garciandia-López"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Asier Garciandia-Lopez"
+  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio."
   location         : "Pamplona, Spain"
   email            :
