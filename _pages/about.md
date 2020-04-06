@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/artificial_intelligence.jpg"
+  image: "/images/about_image.jpg"
 ---
 
 I am a recent M. Sc. in Industrial Engineering graduate in the State University
