@@ -7,7 +7,7 @@ header:
 
 Hi! My name is Asier Garciandia-Lopez and I am a PhD Candidate in Sciences and Industrial Technologies at the Public University of Navarra. I have decided to create this page in order to post research developments that I may consider relevant to share. 
 
-My actual research interests are artificial intelligence related topics and alternative energy sources. My doctoral dissertation focuses on how to exploit marine energy more efficiently and thus make it profitable, exploring new technologies and applying Big Data Processing and Machine Learning techniques to help on that purpose. If you are interested in those topics, you may find my Research Portfolio very interesting. So do not hesitate to contact me via the supplied channels in order to learn more about a specific project.
+My actual research interests are artificial intelligence related topics and alternative energy sources. My doctoral dissertation focuses on how to exploit marine energy more efficiently, and thus, make it profitable, exploring new technologies and applying Big Data Processing and Machine Learning techniques to help on that purpose. If you are interested in those topics, you may find my Research Portfolio very interesting. So do not hesitate to contact me via the supplied channels in order to learn more about a specific project.
 
 Apart from my research, I consider myself a very active and adaptable person, with great self-learning skills. I am always highly motivated to change from area or geographic location, as my background covers a wide range of international experiences, so I take every opportunity to get out of my comfort zone and travel for work purposes.
 

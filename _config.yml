@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Asier Garciandia-Lopez"
+title                    : "Asier Garciandia-López"
 title_separator          : "-"
 subtitle                 : Industrial Engineer
 name                     : "Asier Garciandia-López"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Asier Garciandia-Lopez"
+  name             : "Asier Garciandia-López"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
   location         : "Navarra, Spain"
