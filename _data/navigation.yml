@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Doctoral Research Results"
+  - title: "Doctoral Dissertation"
     url: /phdresults/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
