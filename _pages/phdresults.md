@@ -4,7 +4,7 @@ permalink: /phdresults/
 title: "Recent Posts"
 author_profile: true
 header:
-  image: "/images/about_image.jpg"
+  image: "/images/phdresults_image.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
