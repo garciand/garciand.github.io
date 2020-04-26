@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /projects/
-title: "Posts related to Projects by Tags"
+permalink: /phd/
+title: "Recent Posts"
 author_profile: true
 header:
   image: "/images/about_image.jpg"
