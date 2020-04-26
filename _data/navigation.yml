@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Doctoral Research Results"
-    url: /projects/
+    url: /phdresults/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
