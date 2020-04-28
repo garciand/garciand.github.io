@@ -1,7 +1,7 @@
 ---
 title: "Topic Introduction. What do I aim to answer?"
 date: 2020-04-26
-tags: [Topic Introduction]
+tags: [T1]
 header:
   image: "/images/phdresults_image.jpg"
 excerpt: "PhD introduction, questions to answer"
