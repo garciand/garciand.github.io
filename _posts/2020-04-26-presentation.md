@@ -21,7 +21,7 @@ Although not yet widely used, tidal energy has the potential for future electric
 
 <figure>
   <img src="/images/ranceplant.jpg" alt="Rance Plant France">
-  <figcaption>Tidal power plant in the estuary of the River Rance .</figcaption>
+  <figcaption>Tidal power plant in the estuary of the River Rance (France).</figcaption>
 </figure>
 
 # 2-Which improvements do I propose?
