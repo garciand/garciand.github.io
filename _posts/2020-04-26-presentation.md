@@ -11,7 +11,7 @@ Hi again.
 
 As I already introduced you in my About page, I am pursuing a part-time PhD inside the Energy Technology group of the State University of Navarra. My tesis Directors are Dr. Mario Garcia Sanz, ARPA-E Program Director at the US Department of Energy and Professor at the Electrical Engineering and Computer Science department of Case Western Reserve University, and Dr. Pedro María Dieguez Elizondo, Full Professor at the Public University of Navarra.
 
-My thesis wants to answer the question about whether the Tidal Energy could be a viable option able to compete with the other renewable and non-renewable energy sources. It is a big question, but bigger are its consecuences if the answer is found to be possitives. From the research and designs I have simulated so far, it seems feasible to propose some improvements in the actual methodology of extraction and designs in order to make it more efficient, and maybe, economically viable.
+My thesis wants to answer the question about whether Tidal Energy could be a viable option able to compete with the other renewable and non-renewable energy sources. It is a big question, but bigger are its consecuences if the answer is found to be possitive. From the research and designs I have made and analyse so far, it seems feasible to propose some improvements in the actual methodology of extraction of this type of energy in order to make it more efficient, and perhaps, economically viable.
 
 # 1-What is Tidal Energy?
 
@@ -32,7 +32,7 @@ I want to propose improvements both in the methodology and logistics used to ext
 
 The actors that would be most influenced by my research would be all companies opperating inside the actual energy market, since a far more predictable energy source would be added to the already available resources, increasing the competitivity, but at the same time, reinforcing the world's transition towards cleaner complementary energy sources. 
 
-If you have any doubt, I would be pleased to help you with it via the Email or LinkedIn.
+If you have any doubt, I would be pleased to help you with it via Email or LinkedIn.
 
 Until the next post!
 Asier
