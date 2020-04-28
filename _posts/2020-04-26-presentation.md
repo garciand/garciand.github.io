@@ -4,7 +4,7 @@ date: 2020-04-26
 tags: [T1]
 header:
   image: "/images/phdresults_image.jpg"
-excerpt: "PhD introduction, questions to answer"
+excerpt: "T1, PhD Introduction"
 ---
 
 Hi again.
