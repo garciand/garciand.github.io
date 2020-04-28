@@ -1,7 +1,7 @@
 ---
 title: "Topic Introduction. What do I aim to answer?"
 date: 2020-04-26
-tags: [tidal-energy renewable-energy turbine introduction doctal-dissertation]
+tags: [tidal-energy renewable-energy turbine introduction doctoral-dissertation]
 header:
   image: "/images/phdresults_image.jpg"
 excerpt: "PhD introduction, questions to answer"
