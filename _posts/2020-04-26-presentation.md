@@ -4,7 +4,7 @@ date: 2020-04-26
 tags: [T1]
 header:
   image: "/images/phdresults_image.jpg"
-excerpt: "T1, PhD Introduction"
+excerpt: "PhD Introduction, Tidal Energy, Aim"
 ---
 
 Hi again.
