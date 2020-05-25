@@ -4,7 +4,7 @@ date: 2020-05-25
 tags: [T3-4]
 header:
   image: "/images/T3-4.jpg"
-excerpt: "Science definition, Engineering and Science, Science nowadays"
+excerpt: "References, Citation Standards"
 ---
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v7.0"></script>
