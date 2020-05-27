@@ -10,17 +10,28 @@ excerpt: "References, Citation Standards"
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v7.0"></script>
 Hi everyone,
 
-Following with the [course of Dr. Joaquin Sevilla](https://abai-g9.blogspot.com), my next assignemnt is to give my opinion and some comments regarding the system of publishing scientific papers. After getting familiarized about how the impact factor and peer review system works in articles that are published in specific journals, it is clear that the system it is not perfect. Futhermore, it could be argued that it is deprecated since nowadays we have much faster communication means than journals. However, what makes this sytem difficult to change is the solid base in terms of research quality that has established among the scientific community. 
+Sorry for the gap between this publication and the last one, but the subject of the COVID-19 pandemic has kept me busy personally and professionally.
 
-As discussed in the latest post of Dr. Joaquin Sevilla, the  SARS-CoV-2 pandemic has risen even more arguments against the peer review system, since a lot of new discoveries and experiments take long time until they are published and the situation requires a fast response due to the people dying from it. As an alternative, scientists are tending more towards preprint platforms like ArXiv, medRxiv, bioRxiv, Queios y OSFpreprints to show the results of their research. These are sites where authors publish their papers for making the knowledge available for the community before been reviewed by the journals.
+Today my intention is to emphasize the importance of referencing in a correct and precise manner. Not referencing our sources is plagiarism: we always have to keep that in mind. And the thing is that it should be like that, since presenting the work from another person as own is not fair. This necessity becomes even more important in papers, since all new discoveries and invetions are based in other scientists' work.
 
-After researching about this controversial discussion, I have been thinking about how I would improve the current publishing system. I think that a blockchain (yes, the same technology used for bitcoin and ethereum transactions) based review process could give urgency and dynamism that are demanded in the process withouth facing the risk of loosing preciseness and objectiveness. The main problem about the system would lay in the participants of the blockchain network that would allow to either accept or reject an article. Who would those participants be? Would they need to have a minimum knowledge in the topic in question? How could we control that? These are open questions that would inmediately arise when implementing this system.
+To better ilustrate the importance of referencing I have chosen a couple of articles related to the topic of my thesis: Tidal Energy.
+
+1. E. Segura, R. Morales, J.A. Somolinos and A. López, “Techno-economic challenges of tidal energy conversion systems: Current status and trends,” Elsevier, Renewable and Sustainable Reviews, vol. 77, pp. 536–550, 2017.
+
+This research presents a huge study supported by the Spanish Ministerio de Economía y Competitividad under Research Grants DPI2014-53499-R. With 181 references, it is a perfect example of referencing in an appropriate manner.Taking into account that the article was published in 2017, it is remarkable that the references are very recent, being the oldest one from 2008. This makes sense due to the little research and background available regarding Tidal Energy even today.
+
+It is also remarkable that most of the references (106) are concentrated in the first 2 chapters: *1. Introduction and motivation* and *2. Tidal Energy Converters Vision"*, the 2 chapters corresponding to the Introduction in the so well stablished IMRAD structure. This makes sense, since the presentation of the state of the art requires more references than our particular research.
+
+2. Penny Jeffcoate, Ralf Starzmann, Bjoern Elsaesser, Stefan Scholl, Sarah Bischoff, “Field measurements of a full scale tidal turbine,” Elsevier, International Journal of Marine Energy, vol. 12, pp. 3–20, 2015.
+
+In cotrast to the previous case, here we can only find 16 references, since it is a more practical experioment where only the measurement data of a hydroturbine is collected without going in depth. Most of the references appear in the first 3 chapters (*1. Introduction*, *2. Site and test conditions* and *3. Investigated turbine design*), which again correspond to the Introduction in the IMRAD structure. The references are again recent, being the oldest one from 2012.
 
 # CONCLUSIONS
 
-Blockchain is a technology that could greatly accelerate the reviewing process. Nevertheless, it presents some open questions needed to adress, since validating a paper is not as easy as proving the rightness of a transaction via bitcoin, which is automatically done by software (more information can be found in [this video](https://www.youtube.com/watch?v=SSo_EIwHSd4). Nevertheless, it is an alternative that we should consider for the near future if we want to make the validation process of papers faster.
+Both papers presented here follow a very rigorous scheme regarding the references. Before publishing a scientific article it is important to check which styles are accepted and/or recommended. In these 2 articles, the IEEE citation style is used, since it is the one required in Elsevier articles.
 
-As always, in case you have any doubt, I would be pleased to help you.
+As always, in case you have any doubt, I would be pleased to help you with it via Email or LinkedIn.
+
 
 Asier
 
