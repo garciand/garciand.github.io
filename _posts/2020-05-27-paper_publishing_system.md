@@ -22,6 +22,4 @@ Blockchain is a technology that could greatly accelerate the reviewing process. 
 
 As always, in case you have any doubt, I would be pleased to help you.
 
-Asier
-
 <div class="fb-comments" data-href="https://garciand.github.io/presentation/" data-numposts="5" data-width=""></div>

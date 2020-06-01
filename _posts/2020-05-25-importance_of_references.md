@@ -32,7 +32,4 @@ Both papers presented here follow a very rigorous scheme regarding the reference
 
 As always, in case you have any doubt, I would be pleased to help you with it via Email or LinkedIn.
 
-
-Asier
-
 <div class="fb-comments" data-href="https://garciand.github.io/presentation/" data-numposts="5" data-width=""></div>
