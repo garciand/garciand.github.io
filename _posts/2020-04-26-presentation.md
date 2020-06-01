@@ -6,8 +6,6 @@ header:
   image: "/images/phdresults_image.jpg"
 excerpt: "PhD Introduction, Tidal Energy, Aim"
 ---
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v7.0"></script>
 
 Hi again.
 
@@ -38,4 +36,10 @@ If you have any doubt, I would be pleased to help you with it via Email or Linke
 
 Until the next post!
 
-<div class="fb-comments" data-href="https://garciand.github.io/presentation/" data-numposts="5" data-width=""></div>
+<script src="https://utteranc.es/client.js"
+        repo="garciand/garciand.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

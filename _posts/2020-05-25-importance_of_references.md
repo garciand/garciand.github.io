@@ -6,8 +6,6 @@ header:
   image: "/images/T3-4.jpeg"
 excerpt: "References, Citation Standards"
 ---
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v7.0"></script>
 Hi everyone,
 
 Sorry for the gap between this publication and the last one, but the subject of the COVID-19 pandemic has kept me busy personally and professionally.
@@ -32,4 +30,10 @@ Both papers presented here follow a very rigorous scheme regarding the reference
 
 As always, in case you have any doubt, I would be pleased to help you with it via Email or LinkedIn.
 
-<div class="fb-comments" data-href="https://garciand.github.io/presentation/" data-numposts="5" data-width=""></div>
+<script src="https://utteranc.es/client.js"
+        repo="garciand/garciand.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

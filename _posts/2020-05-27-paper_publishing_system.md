@@ -6,8 +6,6 @@ header:
   image: "/images/T5-6.jpg"
 excerpt: "Paper Publishing System, Peer Review"
 ---
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v7.0"></script>
 Hi everyone,
 
 Following with the [course of Dr. Joaquin Sevilla](https://abai-g9.blogspot.com), my next assignemnt is to give my opinion and some comments regarding the system of publishing scientific papers. After getting familiarized about how the impact factor and peer review system works in articles that are published in specific journals, it is clear that the system it is not perfect. Futhermore, it could be argued that it is deprecated since nowadays we have much faster communication means than journals. However, what makes this sytem difficult to change is the solid base in terms of research quality that has established among the scientific community. 
@@ -22,4 +20,10 @@ Blockchain is a technology that could greatly accelerate the reviewing process. 
 
 As always, in case you have any doubt, I would be pleased to help you.
 
-<div class="fb-comments" data-href="https://garciand.github.io/presentation/" data-numposts="5" data-width=""></div>
+<script src="https://utteranc.es/client.js"
+        repo="garciand/garciand.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
