@@ -8,7 +8,7 @@ excerpt: "Paper Publishing System, Peer Review"
 ---
 Hi everyone,
 
-Once I have completed the [course offered by Dr. Joaquin Sevilla](https://abai-g9.blogspot.com), I would like to share my opinion regarding the topics that I have found more useful and instructive for my future life as a scientist. 
+Once I have completed the [course offered by Dr. Joaquin Sevilla](https://abai-g9.blogspot.com), for which I have dedicated the last 5 entries (tags T1-T7) in my blog, I would like to share my opinion regarding the topics that I have found more useful and instructive for my future life as a scientist. 
 
 The topic that has caught my attention the most is the one about plagiarism and scientific fraud. This is usually seen as a taboo subject inside the scientific community, and thus, we try to avoid talking about it. However, thanks to the behaviour and understanding between colleagues in this course, it was possible for Dr. Sevilla to go deeper on it. The truth is that everyone commits plagiarism in lower or higher extend, but the important thing is to be able to draw a line from which we consider what we are doing to be unethical:
 
