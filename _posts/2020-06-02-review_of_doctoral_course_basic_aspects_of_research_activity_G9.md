@@ -1,10 +1,10 @@
 ---
 title: "Review of doctoral course: Basic aspects of research activity G9"
-date: 2020-05-27
+date: 2020-06-02
 tags: [T7]
 header:
   image: "/images/T7.png"
-excerpt: "Paper Publishing System, Peer Review"
+excerpt: "ABAI G9, Basic aspects of research activity G9"
 ---
 Hi everyone,
 
