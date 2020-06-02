@@ -3,7 +3,7 @@ title: "Review of doctoral course: Basic aspects of research activity G9"
 date: 2020-05-27
 tags: [T7]
 header:
-  image: "/images/T5-6.jpg"
+  image: "/images/T7.png"
 excerpt: "Paper Publishing System, Peer Review"
 ---
 Hi everyone,
