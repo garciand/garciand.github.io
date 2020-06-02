@@ -13,7 +13,7 @@ Once I have completed the [course offered by Dr. Joaquin Sevilla](https://abai-g
 The topic that has caught my attention the most is the one about plagiarism and scientific fraud. This is usually seen as a taboo subject inside the scientific community, and thus, we try to avoid talking about it. However, thanks to the behaviour and understanding between colleagues in this course, it was possible for Dr. Sevilla to go deeper on it. The truth is that everyone commits plagiarism in lower or higher extend, but the important thing is to be able to draw a line from which we consider what we are doing to be unethical:
 
 <figure>
-  <img src="/images/sevilla.png" alt="Line between blameless and corrupt.">
+  <img src="https://github.com/garciand/garciand.github.io/tree/master/images/images/sevilla.png" alt="Line between blameless and corrupt.">
   <figcaption>Line between blameless and corrupt. Source: https://abai-g9.blogspot.com </figcaption>
 </figure>
 
