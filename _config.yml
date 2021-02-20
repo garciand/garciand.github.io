@@ -20,7 +20,7 @@ title                    : "Asier Garciandia-López"
 title_separator          : "-"
 subtitle                 : Industrial Engineer
 name                     : "Asier Garciandia-López"
-description              : "Research Portfoilo"
+description              : "Personal Portfoilo"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  garciand/garciand.github.io 
