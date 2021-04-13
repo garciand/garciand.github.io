@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Asier Garciandia-Lopez"
 title_separator          : "-"
-subtitle                 : Software Engineer
+subtitle                 : # Software Engineer
 name                     : "Asier Garciandia-Lopez"
 description              : "Personal Portfoilo"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Asier Garciandia-López"
+  name             : "Asier Garciandia-Lopez"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
   location         : "Navarra, Spain"
